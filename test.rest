@@ -1,0 +1,8 @@
+PUT http://127.0.0.1:8000/settings/admin
+Content-Type: application/json
+
+{"username": "admin","nb_players": 4,"nb_partie": 8,"nb_dices": 4,"timer": 30}
+
+##############################################################
+
+GET  http://localhost:8000/settings/admin
