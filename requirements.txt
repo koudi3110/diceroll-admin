@@ -1,0 +1,4 @@
+Flask==2.1.2
+werkzeug==2.1.2
+Flask-PyMongo==2.3.0
+flask-Cors==4.0.1
